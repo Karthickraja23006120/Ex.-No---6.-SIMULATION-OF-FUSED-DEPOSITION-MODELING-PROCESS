@@ -21,6 +21,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![Screenshot 2023-11-28 154115empd](https://github.com/Karthickraja23006120/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139335315/094cd300-9f44-4ac2-97d9-cc313131d80a)
+![Screenshot 2023-11-28 154153](https://github.com/Karthickraja23006120/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139335315/1506c52a-26f3-4a0b-a07d-5341fd38bd47)
+![Screenshot 2023-11-28 154222](https://github.com/Karthickraja23006120/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139335315/12183bd5-eaae-4b27-82e7-76ab2c955345)
+![Screenshot 2023-11-28 154246 empd 5](https://github.com/Karthickraja23006120/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139335315/b071a644-3f19-49f0-85af-0ff6b93cbe90)
 
 ### Name:
 ### Register Number:
